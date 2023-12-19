@@ -1,5 +1,5 @@
 # Car : The Adventure Begins 🚗
-![Alt Text](https://github.com/nabhylanr/Car-PBO/raw/main/src/Images/pbobabe.png)
+![Home Page](https://github.com/nabhylanr/Car-PBO/raw/main/src/Images/pbobabe.png)
 
 Developed by :
 1. [Helsa Sriprameswari Putri](https://github.com/helsasp) - 5025221154
